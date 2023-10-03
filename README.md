@@ -36,9 +36,10 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000000?logo=React&logoColor=00c8ff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 
 #### Database and others
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=Oracle&logoColor=white)
